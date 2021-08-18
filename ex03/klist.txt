@@ -1,1 +1,5 @@
-krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
+Credentials cache: API:1013859
+        Principal: hmaxine@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 18 12:06:58 2021  Aug 18 22:06:58 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
